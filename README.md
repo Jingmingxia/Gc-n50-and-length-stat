@@ -7,7 +7,7 @@ Type "python gc_n50_contig_stat.py -h" for help
 
 Results are as follows:
 
-1.contig_stat.out
+1. contig_stat.out
 
 #stat result
 
@@ -21,9 +21,9 @@ Shortest_Contig	1,467
 
 Contig_N50	292,155
 
-2.gc_stat.out
+2. gc_stat.out
 
-#Base	Number	% of total
+#Base	Number	%of_total
 
 A	1,548,917	24.91
 
