@@ -60,7 +60,7 @@ def stat_gc(gc_dict, gc_out):
 
     with open(gc_out, "w") as fh:
         fh.write("""\
-#Base\tNumber\t% of total
+#Base\tNumber\t%of_total
 A\t{0:,}\t{1:.2f}
 T\t{2:,}\t{3:.2f}
 G\t{4:,}\t{5:.2f}
