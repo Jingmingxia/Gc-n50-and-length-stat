@@ -5,7 +5,7 @@ import argparse
 import logging
 from Bio import SeqIO
 from collections import defaultdict
-
+#by jmxia
 
 def n50(lengths):
 
